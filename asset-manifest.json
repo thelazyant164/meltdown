@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e5cc821.css",
+    "main.js": "/static/js/main.20a19b4d.js",
+    "static/media/transparent_logo_idle_animated.gif": "/static/media/transparent_logo_idle_animated.c205f8b3a6542643133e.gif",
+    "index.html": "/index.html",
+    "main.5e5cc821.css.map": "/static/css/main.5e5cc821.css.map",
+    "main.20a19b4d.js.map": "/static/js/main.20a19b4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e5cc821.css",
+    "static/js/main.20a19b4d.js"
+  ]
+}
